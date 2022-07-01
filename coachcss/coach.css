@@ -50,17 +50,38 @@ body {
   vertical-align: middle;
 }
 
-.testimonials {
-  background-color: #fff;
-  justify-content: center;
-  display: flex;
-  height: 500px;
+.subpagetitle {
+  padding: 0 8%;
+  color: #fff;
 }
 
-.testheader {
+.pageheader {
+  text-align: center;
+  padding-bottom: 1%;
   font-weight: bold;
 }
 
+.iconfa {
+  padding-right: 10px;
+}
+
+.termsandcons {
+  text-decoration: underline;
+}
+
+.iconclass {
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+.subpagecontent {
+  padding: 0 8%;
+  color: #fff;
+}
+
+.subpageparagraph {
+  padding-bottom: 2%;
+}
 
 
 .contactdiv {
@@ -69,6 +90,14 @@ body {
   margin: 0;
   text-align: center;
 }
+
+
+.iconclass {
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+
 
 /*
 .myfooter {
